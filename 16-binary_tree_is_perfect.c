@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+int recursive_full_check(const binary_tree_t *tree);
 /**
  * binary_tree_is_perfect - check if binary tree is perfect
  * @tree: pointer to the node
